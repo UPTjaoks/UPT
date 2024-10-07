@@ -1,3 +1,4 @@
+#poolik kood, et tööta
 import pygame
 import sys
 
