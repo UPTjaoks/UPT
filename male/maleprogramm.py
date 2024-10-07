@@ -1,3 +1,4 @@
+#koodis olen kasutanud w3schools.com
 import pygame
 import sys
 
